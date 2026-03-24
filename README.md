@@ -13,9 +13,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-lightgrey?style=flat-square)](https://github.com/aaryajithps/netrecon)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/aaryajithps/netrecon)
-[![Author](https://img.shields.io/badge/Author-Aaryajith%20PS-navy?style=flat-square)](https://github.com/aaryajithps)
+[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-lightgrey?style=flat-square)](https://github.com/Volt-ops/NetRecon)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/Volt-ops/NetRecon)
+[![Author](https://img.shields.io/badge/Author-Volt%20Ops-navy?style=flat-square)](https://github.com/Volt-ops)
 
 *Automated enumeration of FTP · SSH · HTTP · SMB — in one command*
 
