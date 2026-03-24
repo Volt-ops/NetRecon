@@ -1,0 +1,49 @@
+# NetRecon .gitignore
+
+# Generated JSON reports
+recon_*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# Logs
+*.log
+nmap_*.txt
+scan_*.txt
+
+# Sensitive
+*.key
+*.pem
+*.crt
+credentials.txt
+passwords.txt
