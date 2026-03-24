@@ -52,7 +52,7 @@ Built as part of an internship cybersecurity project and released publicly under
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/aaryajithps/netrecon.git
+git clone https://github.com/volt-ops/netrecon.git
 cd netrecon
 
 # 2. Install dependencies
