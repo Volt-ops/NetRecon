@@ -59,7 +59,7 @@ cd netrecon
 pip install -r requirements.txt
 
 # 3. Run against your lab target
-python3 net_recon.py 192.168.56.102
+python3 net_recon.py <Target IP>
 ```
 
 ---
@@ -106,32 +106,32 @@ pip install -r requirements.txt
 ### Basic scan (all services)
 
 ```bash
-python3 net_recon.py 192.168.56.102
+python3 net_recon.py <Target IP>
 ```
 
 ### Scan specific services only
 
 ```bash
-python3 net_recon.py 192.168.56.102 --services ftp ssh
-python3 net_recon.py 192.168.56.102 --services http smb
+python3 net_recon.py <Target IP> --services ftp ssh
+python3 net_recon.py <Target IP> --services http smb
 ```
 
 ### Adjust port scan timeout
 
 ```bash
-python3 net_recon.py 192.168.56.102 --timeout 1.0
+python3 net_recon.py <Target IP> --timeout 1.0
 ```
 
 ### Skip confirmation prompt (automation / CI)
 
 ```bash
-python3 net_recon.py 192.168.56.102 --yes
+python3 net_recon.py <Target IP> --yes
 ```
 
 ### Disable colour output
 
 ```bash
-python3 net_recon.py 192.168.56.102 --no-color
+python3 net_recon.py <Target IP> --no-color
 ```
 
 ### All options
